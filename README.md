@@ -1,4 +1,4 @@
-# Rechargeapp-
+# Mobile Recharge Application
 (Works completely through REST-API)
 
 Work Flow :
